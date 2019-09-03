@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "qymrbewe",
-    "password": "SLpoXhQGZGphoQIt2W3tdMNXyd9BuG1V",
-    "database": "qymrbewe",
-    "host": "raja.db.elephantsql.com",
+    "username": "mrssebhn",
+    "password": "uIB0oFDlcK21tfMmgYuHs5sAfoUAEVem",
+    "database": "mrssebhn",
+    "host": "isilo.db.elephantsql.com",
     "dialect": "postgres"
   },
   "test": {
